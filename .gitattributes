@@ -1,0 +1,14 @@
+
+
+*.csproj -eol=crlf
+*.sln    -eol=crlf
+*.cs     -eol=lf
+
+*.png    -text
+*.jpg    -text
+*.gif    -text
+*.tif    -text
+
+*.md     -eol=lf
+*.txt    -eol=lf
+

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossThreadDemo", "CrossThreadDemo\CrossThreadDemo.csproj", "{213AF8B2-11EE-4540-8734-3899D887F80E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{213AF8B2-11EE-4540-8734-3899D887F80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213AF8B2-11EE-4540-8734-3899D887F80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213AF8B2-11EE-4540-8734-3899D887F80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213AF8B2-11EE-4540-8734-3899D887F80E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
